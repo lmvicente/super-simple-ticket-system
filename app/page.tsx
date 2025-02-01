@@ -4,7 +4,7 @@ export default function Home() {
 
     return (
     <>
-        homepage
+        this is going to be a dashboard
     </>
     );
 }
